@@ -1,3 +1,4 @@
+# THIS PROJECT IS NOW LOCATED AT https://github.com/gooseandmegander/notes-app
 # Lambda Notes
 
 A simple web application using a REST api to manage notes.
